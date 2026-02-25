@@ -1,3 +1,3 @@
-[blog](https://blog.nycrat.dev) • [portfolio](https://nycrat.dev) • [photography](https://nycrat.github.io/photo-gallery) • [dotfiles](https://github.com/NycRat/dotfiles)
+[portfolio](https://nycrat.dev) • [dotfiles](https://github.com/nycrat/dotfiles)
 
 > currently working on game dev with friends, soccer robots, and fullstack web dev
